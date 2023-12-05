@@ -1,0 +1,7 @@
+MODEL_CACHE = "diffusers-cache"
+CONTROLNET_MODEL_TILES = "lllyasviel/control_v11f1e_sd15_tile"
+#REAL_BASE_MODEL = "philz1337/epicrealism"
+#REAL_BASE_MODEL = "SG161222/Realistic_Vision_V6.0_B1_noVAE"
+REAL_BASE_MODEL = "runwayml/stable-diffusion-v1-5"
+#REAL_BASE_MODEL = "stablediffusionapi/juggernaut-reborn"
+#REAL_BASE_MODEL = "darkstorm2150/Protogen_x5.8_Official_Release"

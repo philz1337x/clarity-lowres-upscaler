@@ -1,0 +1,17 @@
+build:
+  gpu: true
+  cuda: "11.6"
+  python_version: "3.10"
+  python_packages:
+    - "diffusers==0.21.1"
+    - "torchvision==0.15.1"
+    - "timm==0.6.12"
+    - "torch==2.0.0"
+    - "ftfy==6.1.1"
+    - "transformers==4.27.1"
+    - "accelerate==0.23.0"
+  system_packages:
+    - ffmpeg
+    - libsm6
+    - libxext6
+predict: "predict.py:Predictor"
