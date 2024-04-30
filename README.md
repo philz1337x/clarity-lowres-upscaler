@@ -7,7 +7,7 @@
 [![Replicate](https://img.shields.io/badge/Demo-Replicate-purple)](https://replicate.com/philz1337x/clarity-lowres-upscaler)
 ![GitHub stars](https://img.shields.io/github/stars/philz1337x/clarity-lowres-upscaler?style=social&label=Star)
 
-<strong>Full Video:
+<strong>Full Video: https://x.com/philz1337x/status/1785269458304442565
 </strong>
 
 </div>
@@ -18,7 +18,7 @@ I build open source AI apps. To finance my work i also build paid versions of my
 
 # 🗞️ Updates
 
-- 04/30/2024: Code release
+- 04/30/2024: Code release (https://x.com/philz1337x/status/1785269458304442565)
 
 # 🚀 Options to use low res Clarity-Upscaler
 
